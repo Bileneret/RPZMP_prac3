@@ -1,4 +1,10 @@
-# IoT Lighting (Варіант 13) — мережевий шар
+<div align="center">
+  
+# КП3 (Варіант 13): Система освітлення з IoT
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+</div>
 
 Android-застосунок для керування освітленням із зовнішнім REST-сервером: Repository і Data Source, кеш Room з офлайн-режимом, Retrofit і Gson, автентифікація тестовим токеном, обробка помилок мережі.
 
